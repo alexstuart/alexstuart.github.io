@@ -1,4 +1,4 @@
-# CV | Alex Stuart | Technical team lead; systems, services and projects; SAML and linux
+# Alex Stuart
 
 Based in Edinburgh, Scotland.
 
